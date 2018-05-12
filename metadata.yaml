@@ -1,0 +1,55 @@
+_repo: Les-petites-filles-mod-les_35404
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Bertall
+    aliases:
+    - Arnould, Charles Albert d'
+    - Arnoux, Charles Albert d'
+    birthdate: 1820
+    deathdate: 1882
+    gutenberg_agent_id: '9071'
+    url: http://www.gutenberg.org/2009/agents/9071
+covers:
+- cover_type: archival
+  image_path: 35404-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Ségur, Sophie, comtesse de
+    aliases:
+    - De Ségur, Sophie, comtesse
+    - Segur, Comtesse de
+    - Rostopchina, Sofiya Feodorovna
+    - Ségur, Comtesse de
+    - Ségur, Sophie Rostopchine, comtesse de
+    birthdate: 1799
+    deathdate: 1874
+    gutenberg_agent_id: '3980'
+    url: http://www.gutenberg.org/2009/agents/3980
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Sophie_Rostopchine%2C_Comtesse_de_S%C3%A9gur
+    - http://fr.wikipedia.org/wiki/Sophie_Rostopchine%2C_comtesse_de_S%C3%A9gur
+description: ''
+gutenberg_bookshelf: FR Jeunesse
+gutenberg_issued: '2011-02-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '35404'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Sisters -- Juvenile fiction'
+- !lcsh 'Families -- Juvenile fiction'
+- !lcsh 'Cousins -- Juvenile fiction'
+- !lcsh 'Girls -- Juvenile fiction'
+- !lcsh 'Children''s stories, French'
+- !lcsh 'Good and evil -- Juvenile fiction'
+- !lcsh 'Friendship -- Juvenile fiction'
+- !lcsh 'France -- Juvenile fiction'
+- !lcsh 'Conduct of life -- Juvenile fiction'
+- !lcsh 'Children -- Conduct of life -- Juvenile fiction'
+title: Les petites filles modèles
+url: http://www.gutenberg.org/ebooks/35404
